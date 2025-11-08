@@ -77,7 +77,6 @@ else:
     weekly_revenue_growth = 0
 
 # --- Display Dashboard ---
-st.title("📈 Automated KPI Tracker")
 st.write("Monitoring key business metrics with AI summaries")
 
 col1, col2, col3, col4 = st.columns(4)
